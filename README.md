@@ -7,7 +7,7 @@ This website will save the user's schedule they've input when the blue save icon
 
 Repository link: https://github.com/dpena1489/workday-scheduler
 
-Active site link:
+Active site link:https://dpena1489.github.io/workday-scheduler/
 
 Screenshot of sceduler: 
 ![A user clicks on slots on the color-coded calendar and edits the events.](/assets/workdayscheduler.png)
