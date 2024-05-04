@@ -10,4 +10,5 @@ Repository link: https://github.com/dpena1489/workday-scheduler
 Active site link:https://dpena1489.github.io/workday-scheduler/
 
 Screenshot of sceduler: 
-![A user clicks on slots on the color-coded calendar and edits the events.](/assets/workdayscheduler.png)
+![A user clicks on slots on the color-coded calendar and edits the events.]
+![Screenshot 2024-05-04 131623](https://github.com/dpena1489/Workday-Scheduler/assets/150938385/bee38daf-1cb1-4fbd-8fc9-64852262a642)
